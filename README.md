@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/carloseduardoaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlose_oliveira@yahoo.com"><img height="30" width="40" src="https://em-content.zobj.net/thumbs/160/facebook/65/e-mail-symbol_1f4e7.png"></a>
   <a href = "https://medium.com/@Carlos_Eduardo_Oliveira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/CarlosEduardoOliv/CarlosEduardoOliv/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+  ![Snake animation](https://github.com/CarlosEduardoOliv/CarlosEduardoOliv/blob/output/github-contribution-grid-snake.svg)
