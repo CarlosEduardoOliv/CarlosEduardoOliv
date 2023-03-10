@@ -5,7 +5,6 @@
 
 ![Carlos Eduardo Oliv's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CarlosEduardoOliv&show_icons=true&theme=dracula#gh-dark-mode-only)
 
-### Linguagens mais utilizadas:
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoOliv&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -31,5 +30,4 @@
   <a href = "https://medium.com/@Carlos_Eduardo_Oliveira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
-
-  ![Snake animation](https://github.com/CarlosEduardoOliv/CarlosEduardoOliv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosEduardoOliv/CarlosEduardoOliv/blob/output/github-contribution-grid-snake.svg)
